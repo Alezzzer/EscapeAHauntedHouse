@@ -1,0 +1,424 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1698682664847669, "dur":23581, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682664871255, "dur":71, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682664871362, "dur":237, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682664871717, "dur":147, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872031, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level3" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872101, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level4" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872221, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872276, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872381, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872584, "dur":153, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1698682664872930, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873005, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873080, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873136, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873262, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873419, "dur":111, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873608, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873687, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873744, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873918, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664873996, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874091, "dur":140, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874385, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874565, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874673, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874729, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874833, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664874970, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875118, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875180, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875288, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875343, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875412, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875525, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664875579, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664876888, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664876953, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1698682664871624, "dur":7774, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682664879400, "dur":1103516, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682665982917, "dur":279, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682665983337, "dur":1157, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1698682664872261, "dur":7145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698682664879409, "dur":6440, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698682664886406, "dur":224, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698682664887107, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698682664886785, "dur":762, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1698682664887552, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698682664887655, "dur":778, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1698682664888434, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1698682664888618, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664888883, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664888957, "dur":191, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664889151, "dur":340, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664889492, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664889570, "dur":305, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664889876, "dur":508, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664890386, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664890458, "dur":311, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664890771, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Coa\\Basic Horror Game\\Basic Horror Game\\Library\\PackageCache\\com.unity.visualscripting@1.9.1\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664890892, "dur":126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664891019, "dur":273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664891293, "dur":363, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664891657, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664891820, "dur":985, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664892807, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664892906, "dur":2011, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664894919, "dur":462, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664895384, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664895492, "dur":113, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664895607, "dur":142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664895750, "dur":148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664895900, "dur":249, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664896150, "dur":819, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664896970, "dur":328, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664897304, "dur":295, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664897600, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664897693, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664897856, "dur":2760, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664900618, "dur":2462, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664903082, "dur":4143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664907227, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player488566b0-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1698682664907368, "dur":53098, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664960467, "dur":530, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664960999, "dur":174839, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665135840, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665135995, "dur":523, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665136520, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
+,{ "pid":12345, "tid":1, "ts":1698682665136697, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665136781, "dur":61569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665198352, "dur":31603, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665229957, "dur":104007, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665333966, "dur":88512, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665422479, "dur":319, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665422799, "dur":142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665422942, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665423020, "dur":67, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665423088, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665423148, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
+,{ "pid":12345, "tid":1, "ts":1698682665423339, "dur":7180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430521, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430626, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430693, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430825, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430887, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
+,{ "pid":12345, "tid":1, "ts":1698682665430961, "dur":109525, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665540488, "dur":30401, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665570894, "dur":75915, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665646810, "dur":60658, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665707469, "dur":29131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665736602, "dur":40215, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665776819, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665776918, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665777031, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665777092, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682665777190, "dur":80780, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":1, "ts":1698682664887551, "dur":970421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698682665977591, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1698682665858119, "dur":119542, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698682665981884, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698682665981883, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1698682665981984, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1698682664872354, "dur":7091, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664879445, "dur":744, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664880190, "dur":785, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664880975, "dur":181, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664881156, "dur":4758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664885932, "dur":63357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664885915, "dur":63375, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664949299, "dur":141, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664950562, "dur":285, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664949443, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664950914, "dur":517, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664950913, "dur":519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664951439, "dur":99, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664951541, "dur":877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House.exe" }}
+,{ "pid":12345, "tid":2, "ts":1698682664952448, "dur":125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1698682664954461, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664952748, "dur":1876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1698682664954880, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664957684, "dur":56, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664957776, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664959587, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664959643, "dur":2035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664962523, "dur":281, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664961802, "dur":1015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664962895, "dur":93, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664963508, "dur":264, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664962991, "dur":814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664963863, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664965484, "dur":303, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664963952, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664965873, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664966708, "dur":276, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664965965, "dur":1032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664967068, "dur":135, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664968119, "dur":291, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664967207, "dur":1215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664968487, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664969138, "dur":279, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664968575, "dur":854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664969491, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664970111, "dur":269, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664969583, "dur":808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664970450, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664971045, "dur":273, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664970539, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664971409, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664971980, "dur":349, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664971497, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664972400, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664972941, "dur":329, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664972486, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664973343, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664974181, "dur":276, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664973429, "dur":1073, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664974570, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664974658, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664976307, "dur":591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664976999, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664978107, "dur":541, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664978747, "dur":570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664979382, "dur":604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664980051, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664980672, "dur":543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664981303, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664981971, "dur":494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664982516, "dur":695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664983252, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664984376, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664983929, "dur":556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664984531, "dur":575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664985145, "dur":553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664985728, "dur":509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664986984, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664986263, "dur":886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664987272, "dur":586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664988427, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664987934, "dur":591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664988631, "dur":567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664989271, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664989325, "dur":581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664990490, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664989973, "dur":628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664990709, "dur":535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664991318, "dur":532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664991931, "dur":520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664992524, "dur":544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664993835, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664993181, "dur":778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664994062, "dur":585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664994721, "dur":654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664996358, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664995515, "dur":962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664996540, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664997332, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664996596, "dur":876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664998108, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682664997606, "dur":592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664998326, "dur":1090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682664999543, "dur":523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665000195, "dur":654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665000910, "dur":530, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665001560, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682665001616, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665002677, "dur":517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665003266, "dur":657, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665004063, "dur":502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665004625, "dur":502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665005183, "dur":650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665005913, "dur":543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665006517, "dur":1039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665007641, "dur":601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665008326, "dur":593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665009495, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682665008983, "dur":578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665009643, "dur":573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665010313, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665010944, "dur":696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665011703, "dur":517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665012283, "dur":483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665012831, "dur":503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665013405, "dur":681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665014213, "dur":618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665015888, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682665014907, "dur":1051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665016045, "dur":575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665016695, "dur":560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665017345, "dur":559, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665017974, "dur":497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665019203, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1698682665018572, "dur":712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665019360, "dur":717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665020161, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665021060, "dur":373445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665021058, "dur":373448, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665394544, "dur":14663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1698682665409259, "dur":573626, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664872306, "dur":7105, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664879419, "dur":872, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664880292, "dur":792, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664881085, "dur":4830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664885934, "dur":31307, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698682664885916, "dur":31327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698682664917252, "dur":197, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664918340, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664917622, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1698682664918579, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698682664918822, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664919264, "dur":881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1698682664920248, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698682664920550, "dur":671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698682664921341, "dur":9451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664921339, "dur":9454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664930801, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664930871, "dur":725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664931644, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698682664932721, "dur":316, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664931900, "dur":1150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1698682664933124, "dur":8174, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664933122, "dur":8177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664941315, "dur":549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1698682664941930, "dur":52417, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664941929, "dur":52419, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664994597, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664995848, "dur":820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664997290, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664996730, "dur":667, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664998154, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664997520, "dur":744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682664998319, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664999651, "dur":51, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664998383, "dur":1361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665000518, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682664999862, "dur":794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665000726, "dur":790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665001574, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665001632, "dur":882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665002627, "dur":661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665003872, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665003349, "dur":619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665004047, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665004120, "dur":792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665004992, "dur":786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665005854, "dur":599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665007718, "dur":277, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665006542, "dur":1463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665008089, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665009484, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665008180, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665009796, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665011089, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665009881, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665011420, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665012422, "dur":400, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665011485, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665012970, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665014771, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665013063, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665015048, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665016314, "dur":254, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665015149, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665016766, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665017781, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665016845, "dur":1200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665018107, "dur":98, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665019003, "dur":284, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665018207, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665019419, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665022073, "dur":1625, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665019493, "dur":4220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1698682665023861, "dur":94, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665023957, "dur":604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665024701, "dur":650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets3.resource" }}
+,{ "pid":12345, "tid":3, "ts":1698682665025424, "dur":2029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698682665027488, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665027542, "dur":620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665028696, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665028221, "dur":621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665028868, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665028921, "dur":1894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":3, "ts":1698682665040202, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665030889, "dur":9483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698682665040422, "dur":630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665042754, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665041091, "dur":1797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1698682665042928, "dur":2243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698682665045958, "dur":70, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665045276, "dur":806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665046128, "dur":250, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665046854, "dur":306, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665046380, "dur":791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1698682665047199, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665047284, "dur":518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1698682665047852, "dur":697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1698682665049763, "dur":86, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665048610, "dur":1288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698682665049976, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665051390, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665050765, "dur":758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level4" }}
+,{ "pid":12345, "tid":3, "ts":1698682665053087, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665051597, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1698682665053352, "dur":561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level2" }}
+,{ "pid":12345, "tid":3, "ts":1698682665053952, "dur":503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1698682665054494, "dur":473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1698682665055005, "dur":1728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1698682665056810, "dur":54, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1698682665056866, "dur":647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1698682665057553, "dur":519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1698682665058100, "dur":924809, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664872344, "dur":7078, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664879434, "dur":742, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664880177, "dur":615, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664880793, "dur":508, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664881301, "dur":4584, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664889005, "dur":297, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664888326, "dur":989, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1698682664889416, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664891337, "dur":273, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664889643, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/Escape A Haunted House_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1698682664891625, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664891747, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664892162, "dur":1232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664893481, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1698682664893672, "dur":1172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1698682664894914, "dur":8939, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664894913, "dur":8941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664903863, "dur":96, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664904618, "dur":75, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664904122, "dur":623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664904801, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1698682664904918, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664905004, "dur":698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1698682664905773, "dur":12061, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664905772, "dur":12064, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664918390, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664917857, "dur":656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664918570, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664918766, "dur":829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664919673, "dur":8400, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664919671, "dur":8404, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664928150, "dur":641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664928882, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664929873, "dur":82, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664929012, "dur":996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664930074, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698682664930189, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664930372, "dur":780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698682664931250, "dur":7815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664931249, "dur":7818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664939698, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664939142, "dur":677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1698682664939874, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664940013, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664940069, "dur":781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1698682664940948, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698682664941066, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1698682664941282, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1698682664942111, "dur":129522, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698682664942110, "dur":129524, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D:/Coa/Escape A Haunted House/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698682665071692, "dur":3289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"D:/Coa/Escape A Haunted House/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1698682665075076, "dur":907810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1698682665986971, "dur":1703, "ph":"X", "name": "ProfilerWriteOutput" }
+,
